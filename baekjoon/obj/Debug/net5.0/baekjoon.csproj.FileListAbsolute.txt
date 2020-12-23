@@ -1,0 +1,16 @@
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\bin\Debug\net5.0\baekjoon.exe
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\bin\Debug\net5.0\baekjoon.deps.json
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\bin\Debug\net5.0\baekjoon.runtimeconfig.json
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\bin\Debug\net5.0\baekjoon.runtimeconfig.dev.json
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\bin\Debug\net5.0\baekjoon.dll
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\bin\Debug\net5.0\ref\baekjoon.dll
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\bin\Debug\net5.0\baekjoon.pdb
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\obj\Debug\net5.0\baekjoon.csprojAssemblyReference.cache
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\obj\Debug\net5.0\baekjoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\obj\Debug\net5.0\baekjoon.AssemblyInfoInputs.cache
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\obj\Debug\net5.0\baekjoon.AssemblyInfo.cs
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\obj\Debug\net5.0\baekjoon.csproj.CoreCompileInputs.cache
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\obj\Debug\net5.0\baekjoon.dll
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\obj\Debug\net5.0\ref\baekjoon.dll
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\obj\Debug\net5.0\baekjoon.pdb
+C:\Users\ehdgu\Desktop\vscode_dotnet_settings\baekjoon\obj\Debug\net5.0\baekjoon.genruntimeconfig.cache

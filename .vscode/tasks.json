@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        // /* dotnet cheat sheet */ //
+        // mkdir cs
+        // cd cs
+        // dotnet new console
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${fileDirname}\\baekjoon.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
